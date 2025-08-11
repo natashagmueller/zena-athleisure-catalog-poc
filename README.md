@@ -99,10 +99,4 @@ This app reads from the Snowflake view `CATALOG_FOR_WEBSITE` to display product 
 ## 📸 App Preview
 ![zena-athleisure-catalog-poc](screenshots/sweatsuitsapp.png)
 
-*(Add a screenshot here once the app is running locally or in the cloud)*
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
